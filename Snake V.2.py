@@ -29,7 +29,7 @@ Bot left corner = -475,-395
 
 #Variable
 
-keys = pygame.keys.get_pressed()
+keys = pygame.get_pressed()
 
 #Functions
 
